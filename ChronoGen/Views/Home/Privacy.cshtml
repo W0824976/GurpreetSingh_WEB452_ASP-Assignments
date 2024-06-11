@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "About Us";
+}
+<style>
+    body {
+        background-color: black;
+        color: white;
+    }
+
+    h1 {
+        font-family: 'Signika Negative', sans-serif;
+    }
+
+    li {
+        list-style-type: none;
+    }
+</style>
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+
+    <p>Welcome to ChronoGen, your one-stop destination for custom made watches that fit your dezire. We take pride in creating Elegant, high-quality watches as per our customers requirements.</p>
+
+    <p>
+        Our dedicated team of designers and craftsmen are passionate about watches that tell a story, represent your brand, or
+        commemorate special events. We combine creativity with precision to turn your ideas into something you can wear to every occassion.
+    </p>
+    <hr />
+    <h2>Meet our Team!</h2>             @* Team members showcase *@
+    <div class="card-columns">
+        <div class="card">
+            <div class="card-img" style="background-image:url('/img/des1.jpeg')" ;></div>
+            <div class="card-body"><h5>Josh</h5></div>
+        </div>
+        <div class="card">
+            <div class="card-img" style="background-image:url('/img/des3.jpeg')" ;></div>
+            <div class="card-body"><h5>Robin</h5></div>
+        </div>
+        <div class="card">
+            <div class="card-img" style="background-image:url('/img/des4.jpeg')" ;></div>
+            <div class="card-body"><h5>Maria</h5></div>
+        </div>
+        <div class="card">
+            <div class="card-img" style="background-image:url('/img/des5.jpeg')" ;></div>
+            <div class="card-body"><h5>Chloe</h5></div>
+        </div>
+        <div class="card">
+            <div class="card-img" style="background-image:url('/img/des6.jpeg')" ;></div>
+            <div class="card-body"><h5>Marla</h5></div>
+        </div>
+        <div class="card">
+            <div class="card-img" style="background-image:url('/img/des7.jpeg')" ;></div>
+            <div class="card-body"><h5>Sam</h5></div>
+        </div>
+    </div>
+
+    <h2>Why ChronoGen:</h2>
+    <ul>
+        <li>Custom Designs</li>
+        <li>Top-Quality Materials</li>
+        <li>Competitive Pricing</li>
+        <li>Timely Delivery</li>
+        <li>Exceptional Customer Service</li>
+    </ul>
+
+    <p>
+        Whether you need watches for your business, organization, event, or personal use, ChronoGen has you covered. Contact us today!
+    </p>
+
+    <div style="padding: .5rem 1rem;border:2px solid teal">
+        <h3>Corporate Headquarters:</h3>
+        <address>
+            <strong>ChronoGen</strong><br>
+            123 Flag Street<br>
+            Flag City, Flagland<br>
+            Phone: (123) 456-7890<br>
+            Email: info@chronogen.com<br>
+        </address>
+    </div>
+</div>
