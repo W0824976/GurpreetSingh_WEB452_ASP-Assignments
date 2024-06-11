@@ -49,5 +49,5 @@ An MVC Web app built using C# and ASP.NET Core 3.1 in visual studio.
 ## Author
 
 Author: Gurpreeth Singh
-Student number:0824976
+Student number:w0824976
 Purpose: WEB 452 Assignment
