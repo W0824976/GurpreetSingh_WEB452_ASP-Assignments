@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sc6ufRAE9GWQASZbVNbX/EKs65IQI3uihNB0E5pwmyxO4+WDSDbY4Zg3+kdqQiIN/cyOFibsQa2PXc8rpPaqJQ==",
+  "dgSpecHash": "KUmigCxWBTgwCr4nMNl3Zl8dbf2wYx+LGP3VpddJxG6hQgzAm6Gr2OyyKCcoyDDT9J4LeMRArc6eWB8rwlHwlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gurpreet Singh\\Documents\\ChronoGen\\ChronoGen\\ChronoGen.csproj",
   "expectedPackageFiles": [
@@ -172,10 +172,7 @@
     "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
-    "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\Gurpreet Singh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }
